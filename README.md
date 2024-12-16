@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Task_Be
+
+# Step 1: Install Modules
+
+Run the following command to install the required modules:
+
+npm install
+
+# Step 2: Run the Project
+
+Start the development server using:
+
+npm run start
+
 ## Available Scripts
 
 In the project directory, you can run:
